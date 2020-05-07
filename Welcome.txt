@@ -1,0 +1,25 @@
+Hello file diver!
+
+Firstly, I owe a massive thanks to numerous mods, addons, projects, modders, and of course EU4 itself. There are too many to list all but some are below. They've inspired me, bugfixed for me, helped when I had questions, provided maps and sources, and much more.
+ - Beyond Typus
+  - Draiocht
+  - Nikicaga
+  - Dub
+  - Math
+  - CR
+ - AUMC
+  - Ajsieg
+  - LeRoi
+ - Amyzonis
+ - Pieter
+ - Atlan
+ - ML
+ - Qweytr
+ - Firesoul
+ 
+The end goal of this project is to create an accurate and detailed map without straying too far from vanilla values and gameplay.
+
+If you see any bugs, issues, or anything that can be recoded better, please do let me know. 
+
+Many thanks
+Chairman Meow (JP)

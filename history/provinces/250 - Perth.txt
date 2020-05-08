@@ -1,0 +1,47 @@
+#250 - Perth
+#Area - 
+#Region - 
+
+#Core Details
+capital = "Perth"
+is_city = yes
+owner = SCO
+controller = SCO
+
+#Demographics
+culture = scottish
+religion = catholic
+
+#Development and Trade
+base_tax = 3
+base_production = 3
+base_manpower = 2
+trade_goods = grain
+
+#Cores and Occupation
+add_core = SCO
+
+#Other Political
+hre = no
+
+#Forts/Other Buildings
+
+#Special Modifiers
+
+#Discoveries
+discovered_by = western
+discovered_by = muslim
+discovered_by = ottoman
+discovered_by = eastern
+
+#History
+1560.8.1 = { religion = reformed }
+1644.9.1 = { revolt = { type = revolutionary_rebels size = 2 } controller = REB }
+1645.9.13 = { revolt = {} controller = SCO } # Battle of Philiphaugh
+1651.8.2 = { controller = ENG }
+1652.4.21 = { controller = SCO } # Union of Scotland and the COmmonwealth
+1707.5.12 = {
+	owner = GBR
+	controller = GBR
+	add_core = GBR
+}
